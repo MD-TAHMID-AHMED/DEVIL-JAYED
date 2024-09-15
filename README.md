@@ -1,9 +1,7 @@
 # DEVIL-JAYED
 #------ALL-IN-ONE --- TOOLS------#
 
-#--------FREE TOOLS-------#
-
-[✓] pkg update
+#--------FREE TOOLS-------
 
 [✓] pkg upgrade
 
@@ -23,4 +21,4 @@
 
 [✓] python3 DEVIL.py
 
-<p align="middle"><img width="300px" src="https://raw.githubusercontent.com/JAYED-HOSEN/WEBSITE-IMG/main/Screenshot_2023-08-01-22-31-00-08_84d3000e3f4017145260f7618db1d683.jpg"/></p>
+<p align="middle"><img width="300px" src="https://raw.githubusercontent.com/MD-TAHMID-AHMED/DEVIL-JAYED/main/IMG-20240908-WA0005.jpg"/></p>
